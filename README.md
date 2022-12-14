@@ -10,7 +10,7 @@
 <p align="center">
   <img alt="sistema-reservas" src=".github/reserv.png" width="100%">
   <br/>
-  <img alt="sistema-reservas" src=".github/reserv2.png" width="100%">
+  <img alt="sistema-reservas" src=".github/reserva2.png" width="100%">
 
 </p>
 
